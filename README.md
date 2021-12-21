@@ -1,4 +1,5 @@
-## AMAZON CLONE
+#  `AMAZON CLONE` 
+### Technologies used: React Js,Redux,firebase,moment,react-router-dom,redux-thunk,redux-thunk
 
 ## Available Scripts
 
